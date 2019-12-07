@@ -24,9 +24,13 @@ This whole process includes the use of Arduino, Display and sonar. The sonar det
 
 ![Block_diagram](https://user-images.githubusercontent.com/33668152/70372115-24bb3180-1905-11ea-9360-015bb582dfaf.jpg)
 
+
+
 **Flow Chart**
 
 ![flowchart](https://user-images.githubusercontent.com/33668152/70372157-a1e6a680-1905-11ea-96c9-1e4bbbee5439.jpg)
+
+
 
 **System Testing**
 
@@ -37,6 +41,8 @@ We have tested the design system with a dummy car. There are usually two possibi
 **Prototype**
 
 ![prototype](https://user-images.githubusercontent.com/33668152/70372162-c2166580-1905-11ea-8eef-45d700f4556e.jpg)
+
+
 
 **Experimental Results**
 
